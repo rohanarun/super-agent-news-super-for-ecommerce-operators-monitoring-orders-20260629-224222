@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/)",
+    "[thenextweb.com](https://thenextweb.com/news/google-gemini-3-5-flash-computer-use-built-in-tool)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/)",
+    "[forbes.com](https://www.forbes.com/sites/bernardmarr/2026/06/27/gemini-35-flash-computer-use-everything-we-know-so-far/)",
+    "[coasty.ai](https://coasty.ai/blog/how-to-automate-customer-support-with-ai-computer-use-20260607)",
+    "[aimultiple.com](https://research.aimultiple.com/computer-use-agents/)",
+    "[shopify.com](https://www.shopify.com/blog/ecommerce-automation)"
+  ],
+  "design_plan": "rng(seed=42)->hero_media=hero-0607-2-3.mp4; AIDA=pass; hero_math=1120px/2.4lines; bento_density=grid-auto-flow:dense present; label_sweep=competitors all mentioned; button_contrast=black/white pills verified",
+  "generated_at": "2026-06-29T22:42:29.589821+00:00",
+  "headline": "Super for ecommerce operators monitoring orders, support, and repetitive admin",
+  "site_brief": {
+    "audience": "ecommerce operators monitoring orders, support, and repetitive admin",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "ecommerce operators monitoring orders, support, and repetitive admin AI assistant",
+      "ecommerce operators monitoring orders, support, and repetitive admin personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-ecommerce-operators-monitoring-orders-support-an",
+    "title": "Super for ecommerce operators monitoring orders, support, and repetitive admin"
+  },
+  "summary": "A conversion\u2011focused niche landing page for ecommerce operators who live inside order dashboards, support queues, and repetitive admin tools. It reuses Super\u2019s proven comparison\u2011page visual system and positions Super as the sharper, cheaper option for repeated computer\u2011use workflows via a reusable computer\u2011use cache \u2014 with fair context on ChatGPT, Gemini, Grok, Siri, Folk, and Orchids."
+}
